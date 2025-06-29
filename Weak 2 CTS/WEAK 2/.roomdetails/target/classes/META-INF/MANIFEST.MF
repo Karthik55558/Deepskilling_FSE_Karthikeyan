@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: Karthikeyan
+Build-Jdk: 21.0.7
+Implementation-Title: Custom Abiquo Backup Plugin
+Implementation-Version: 5.4.0
+Implementation-Vendor-Id: com.room
+Implementation-Vendor: Abiquo Holdings S.L.
+Implementation-URL: https://github.com/abiquo/platform/.roomdetails
+Created-By: Maven Integration for Eclipse
+Git-Branch: 
+Git-Commit: 
+Git-Repo: 
+
